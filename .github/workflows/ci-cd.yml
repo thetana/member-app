@@ -59,4 +59,4 @@ jobs:                       # 작업 정의
           context: .
           push: true
           platforms: linux/arm64
-          tags: ${{ secrets.DOCKERHUB_USERNAME }}/cloud-app:arm64
+          tags: ${{ secrets.DOCKERHUB_USERNAME }}/member-app:arm64
