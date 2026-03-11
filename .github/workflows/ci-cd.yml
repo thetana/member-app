@@ -41,7 +41,9 @@ jobs:                       # 작업 정의
 
       # Step 5: 테스트 실행
       - name: Run tests
-        run: ./gradlew test            # 쉘 명령어 직접 실행
+        run: |
+          chmod +x gradlew
+          ./gradlew test
 
       # Step 6: JAR 빌드
       - name: Build JAR
