@@ -1,0 +1,34 @@
+spring:
+  config:
+    import: aws-parameterstore:/camp-health-app/prod/
+  cloud:
+    aws:
+      region:
+        static: ap-northeast-2
+      s3:
+        bucket: camp-health-if7down8up-files
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: ${DB_URL}
+    username: ${DB_USERNAME}
+    password: ${DB_PASSWORD}
+  jpa:
+    properties:
+      hibernate:
+        dialect: org.hibernate.dialect.MySQLDialect
+
+management:
+  endpoint:
+    health:
+      show-details: never
+  info:
+    env:
+      enabled: true
+
+info:
+  app:
+    message: ${APP_MESSAGE}
+
+logging:
+  level:
+    root: INFO
