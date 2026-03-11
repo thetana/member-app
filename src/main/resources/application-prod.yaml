@@ -27,7 +27,7 @@ management:
 
 info:
   app:
-    message: ${APP_MESSAGE}
+    message: ${team-name}
 
 logging:
   level:
