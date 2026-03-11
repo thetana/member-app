@@ -41,7 +41,9 @@ jobs:                       # 작업 정의
 
       # Step 6: JAR 빌드
       - name: Build JAR
-        run: ./gradlew bootJar
+        run: |
+          chmod +x gradlew
+          ./gradlew bootJar
 
       # Step 7: Docker Hub 자격증명
       - name: Login to Docker Hub
