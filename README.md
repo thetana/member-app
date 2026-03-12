@@ -45,5 +45,33 @@ ___
 ## LV 3
 ### 1. 발급받은 Presigned URL 1개와 해당 URL의 만료 시간
 2026년 3월 18일 16시 55분에 Presigned URL 만료예정 <br>
-[Presigned URL](https://camp-health-if7down8up-files.s3.ap-northeast-2.amazonaws.com/uploads/e658d5b6-620e-4ee6-96ba-f63cfb17a3b4_image%20%283%29.png?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEI%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaDmFwLW5vcnRoZWFzdC0yIkcwRQIgWLD19JgGA64B%2B3VyVR5xm3SrQolwe90YHWTar%2FOEAt4CIQD0WXLGrSvFd1LXSgHpHguqKkkwYfX4vZdOqV1gRlHXCCrKBQhYEAAaDDQxNjE3MDYxNDkxMCIM0OSccZ53tJZj2401KqcFAPQq1lzR6suaZKRmRKnNAd%2Fqpi3HM1dgKsqZioiQ%2BCjPJbwK%2BOyw3GP6U9VVGgsF3lZqQnSaniDw173YN9TmDYTTL4TljXxzk%2Fp9Ox2O4SsuxlCCdWXVYRBoRM0oUB6Ef5r%2F7fUF78tAymxasfnosF0cKGjXMTRQ8KSC%2FY7U3m3IxWZfJnXMrV%2Fn3Mp5trjBWiPMwE81zhi54eAjHzo2PTYdLoJYnQNGZq5T2XzSSzjZ6LXPUs2U3vnR%2BladUS5CHHa9maBo2BA%2Fix%2BoQCe6IcaemV3ogFr56VaUjuqPY8AUF7nIiwvuvIw8bEZecNWXFDH1%2B7Cobz9PA0Daa8lqvN%2B%2BWbqku0yvWtyjTytCkz6cefJoKCmWvVaO6Sub5DLDUlOtvhzAfop1KBoG9VoscoVXXZvaKdPNcZuuwWdYeowm%2B4UvW7rRwfKMf0FYFrv3161CYmNSkp3z%2BmlS1Dy%2BVG1RqJA6Ev2hfDfrKn2rd6JG6oJq%2F1JNaYjXPW0wdXvUHSn1%2Bl3A1fUG1Fb%2FrxcHChB9qHk7FWWN8H%2B5%2BQ%2B8FmLwJJlCzhavBQkvpRYeTZfM4kp2OmdkAA9leD9c1VaPeU71EQi2078PotmujQWNPPicHo5oxmi1x9lACqL3KZbFMrAZvg06%2F%2BAGqzsL5l2Jmo0sdcs%2BDOfZleTIFC8o4UXxpCri%2BFEs7XM5t%2BfW6pFk2D3Gp7BBEarAATmKMa4gvN%2FQ2gvlOLGgqG0YaH%2Fov3tA%2FXdUiex6Gvul8AR%2B7%2Bnfn56DN3DgO2YoCbwFb9WpxrrIJ0%2BVTgmGY0cVIPE4czIVq9%2FwWdat8sCbOs4fCQBghUOIYGku402%2F1bo%2BzEwo9wXfhtlqCXJbY0o8a9CC%2By%2BGZXpkC0LPTQnYdWWpHKJ%2F2Dy6bMZ%2BjTDCpMTNBjqxAQaF3zSD%2FdhI1zEqMa9MXvOiZxM2l3S7dnMyC4ffTZCrHYhx2qO64cbNubfHKhi5zzeSxJEcTkjmrlXyJqaFbCAEfU6zmU6cSsyRLuJZKrljrcrjoAFdOi%2FYIbFMy3DLfDKMRgphF2ni94aY1gxVlhNgnXBRP5wo5eyfVBdRpSdg5iQ6Rsx%2BKnbOauJ3oNrJk824aTb2qPUePcqX%2BFPzDeRJwbgVb7ICgHmFfBZuQnm2NQ%3D%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20260311T075544Z&X-Amz-SignedHeaders=host&X-Amz-Credential=ASIAWBZNTUB7DNEEW4GU%2F20260311%2Fap-northeast-2%2Fs3%2Faws4_request&X-Amz-Expires=604800&X-Amz-Signature=9003fc6dd288393c2ad419624c4c28c9f1a89f24fb2e4f1a76b36f17f170e7b2)
+[Presigned URL](https://cloud-health-taehoon-files.s3.ap-northeast-2.amazonaws.com/uploads/ee8e057f-2cd0-470f-af47-f3a0b4a7ecef_%EB%8F%84%EB%9D%BC.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20260311T025152Z&X-Amz-SignedHeaders=host&X-Amz-Credential=AKIA2OG7PDLV7BSASE4F%2F20260311%2Fap-northeast-2%2Fs3%2Faws4_request&X-Amz-Expires=604800&X-Amz-Signature=4ac510fc44dd881e7033917edcc78218e5baa3c9c621f21c30ff68e525c38cf4) <br>
 ___
+## LV 4 - Docker & CI/CD 파이프라인 구축
+### 1. Github Actions 성공 이미지
+
+<img width="735" height="364" alt="스크린샷 2026-03-11 133933" src="https://github.com/user-attachments/assets/4fd68297-3625-47f1-b109-ee7045b83b87" />
+<img width="727" height="531" alt="스크린샷 2026-03-11 133927" src="https://github.com/user-attachments/assets/f0c28628-30a7-42d6-a166-bd63c4aa538f" />
+
+### 2. EC2 터미널 이미지
+
+<img width="579" height="90" alt="스크린샷 2026-03-11 133918" src="https://github.com/user-attachments/assets/e769109d-253a-4216-afa2-de5444273ca2" />
+
+___
+
+## LV 5 - 고가용성 아키텍처와 보안 도메인 연결 (ALB + ASG + HTTPS)
+### 1. HTTPS 적용된 도메인 URL
+### [도메인 헬스체크](https://if7down8up.click/actuator/health)
+
+<img width="563" height="218" alt="스크린샷 2026-03-11 235550" src="https://github.com/user-attachments/assets/40708757-cd9c-43b2-846a-393ec1f78b92" />
+
+### 2. Target Group(대상 그룹) 이미지
+
+<img width="1615" height="271" alt="스크린샷 2026-03-11 235642" src="https://github.com/user-attachments/assets/015d42a1-2ac7-4ad6-b321-d5c9a943cf1f" />
+
+___
+## LV 6 - 글로벌 성능 최적화 (CloudFront CDN)
+### 1. CloudFront 이미지 URL
+### [cdn](https://d1steumf39vx3r.cloudfront.net/1e2a2fd3-cd7f-49f7-8aaa-003ba7851f73_image%20(3).png)
+
+<img width="804" height="392" alt="스크린샷 2026-03-11 235417" src="https://github.com/user-attachments/assets/8385d635-688c-4abb-ae7a-ab2f1d3d78da" />
